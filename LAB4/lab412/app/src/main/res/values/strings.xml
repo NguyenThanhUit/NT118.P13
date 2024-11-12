@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lab4.1</string>
+    <string name="fade_in">FADE IN</string>
+    <string name="fade_out">FADE OUT</string>
+    <string name="blink">BLINK</string>
+    <string name="zoom_out">ZOOM OUT</string>
+    <string name="zoom_in">ZOOM IN</string>
+    <string name="from_xml">FROM XML</string>
+    <string name="from_code">FROM CODE</string>
+    <string name="rotate">ROTATE</string>
+    <string name="move">MOVE</string>
+    <string name="slide_up">SLIDE UP</string>
+    <string name="bounce">BOUNCE</string>
+    <string name="combine">COMBINE</string>
+</resources>
